@@ -39,6 +39,7 @@ class _controlPageState extends State<controlPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.transparent,
       appBar: AppBar(
         title: Text("Controls"),
         centerTitle: true,

@@ -18,7 +18,7 @@ class _CustomState extends State<Custom> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey[900],
+      backgroundColor: Colors.transparent,
 
       //appbar
       appBar: AppBar(
